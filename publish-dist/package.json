@@ -1,0 +1,16 @@
+{
+  "name": "@jimmyolo/uws.js",
+  "version": "0.0.1-dev.1",
+  "description": "glibc 2.34 compatible uWebSockets.js build",
+  "main": "uws.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyolo/uws.js.git"
+  },
+  "files": [
+    "uws.js",
+    "*.node",
+    "index.d.ts"
+  ]
+}
