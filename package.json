@@ -1,6 +1,6 @@
 {
   "name": "@jimmyolo/uws.js",
-  "version": "20.60.0-alma.2",
+  "version": "20.61.0-alma.1",
   "description": "glibc 2.34 compatible uWebSockets.js build",
   "main": "uws.js",
   "types": "index.d.ts",
